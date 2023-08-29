@@ -69,10 +69,6 @@ body {
 }
 
 
-#Background {
-  background-image: url(/assets/img/Sem\ título.png);
-}
-
 .btn:hover {
   background-color: rgb(0, 0, 0);
 }
